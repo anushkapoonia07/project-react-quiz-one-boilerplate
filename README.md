@@ -10,6 +10,17 @@ In this exercise, the goal is to learn building a complete quiz app on a stage b
 - when and how to setup react in your application,
 - how to create multiple compoents and design it.
 
+## Getting started
+
+1. Fork this repo
+2. Clone this repo
+
+Whenever you create a first significant change, you should make your first commit.
+
+3. Follow these [guidelines to add, commit and push changes](https://github.com/Kalvium-Program/general-guidelines-labs-project-builders).
+
+In the end of this document, you will find guidelines on how to submit the exercise.
+
 ### Introduction
 
 In this exercise, you will try to work with component and css. 
